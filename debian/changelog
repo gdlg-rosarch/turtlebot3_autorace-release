@@ -1,0 +1,11 @@
+ros-kinetic-turtlebot3-autorace (1.0.0-0jessie) jessie; urgency=high
+
+  * refactoring to release
+  * updated control_parking.py
+  * fixed the dependencies
+  * first upload of turtlebot3_autorace
+  * Contributors: Leon Jung, Pyo
+
+ -- Pyo <pyo@robotis.com>  Mon, 19 Mar 2018 15:00:00 -0000
+
+
